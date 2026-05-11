@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Naaz Parveen - Personal Portfolio
 
-# Run and deploy your AI Studio app
+A single-page portfolio website built for a CST student assignment. 
 
-This contains everything you need to run your app locally.
+## Objective
+The goal of this project is to practice front-end skills by building a responsive portfolio using HTML5 and CSS3. 
 
-View your app in AI Studio: https://ai.studio/apps/30f81bb5-9a63-442c-9100-b68e665022be
+## Features
+- **Modern UI/Glassmorphism:** Clean, minimalistic design using backdrop-filters and soft glowing effects.
+- **Responsive Layout:** Built with CSS Flexbox and Grid to look great on mobile, tablet, and desktop.
+- **Animations:** Smooth scroll, floating profile picture, fade-in sections, and dynamic hover states on cards and buttons.
+- **Sections:**
+  - Hero Profile
+  - About Me
+  - Technical Skills
+  - Featured Projects
+  - Contact Form (HTML Structure)
 
-## Run Locally
+## Technologies Used
+- HTML5
+- CSS3 (Custom Variables, Flexbox, Grid, Animations)
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Installation & Setup
+1. Clone the repository: `git clone <repository-url>`
+2. Open `index.html` in your browser.
